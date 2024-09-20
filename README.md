@@ -13,4 +13,15 @@
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  
   <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />  
 </div>
-Estou aberto a críticas sobre os meus projetos. Fiquem à vontade para dar uma olhada e fazer um fork, caso queiram contribuir.
+
+Estou aberto a críticas sobre os meus projetos. Fiquem à vontade para dar uma olhada e fazer um fork, caso queiram contribuir. <br>
+
+Em geral eu para o frontend eu custumo utilizar:
+* HTML5
+* Javascript
+* CSS
+* Bootstrap
+* Jquery
+<br>
+E para o backend eu utilizo o PHP juntamente com o banco de dados MYSQL. 
+<br>
