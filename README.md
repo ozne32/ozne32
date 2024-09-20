@@ -16,7 +16,7 @@
 
 Estou aberto a críticas sobre os meus projetos. Fiquem à vontade para dar uma olhada e fazer um fork, caso queiram contribuir. <br>
 
-Em geral eu para o frontend eu custumo utilizar:
+No frontend eu custumo utilizar:
 * HTML5
 * Javascript
 * CSS
